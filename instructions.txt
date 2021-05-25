@@ -3,8 +3,7 @@
 <header>
 Kenya Caldwell Employment Portfolio
 <footer>
-Kenya Caldwell 2021
+Kenya Caldwell 2021 one html entity such as copyright in footer
 <main>
 <article>
-at least one <img> which should be in a new subfolder called images with directory
-one html entity such as copyright in footer
+at least one <img> which should be in a new subfolder called images within directory
