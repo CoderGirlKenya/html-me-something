@@ -1,0 +1,10 @@
+3-10 paragraphs or sections
+<p>
+<header>
+Kenya Caldwell Employment Portfolio
+<footer>
+Kenya Caldwell 2021
+<main>
+<article>
+at least one <img> which should be in a new subfolder called images with directory
+one html entity such as copyright in footer
