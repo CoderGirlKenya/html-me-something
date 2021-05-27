@@ -5,5 +5,8 @@ Kenya Caldwell Employment Portfolio
 <footer>
 Kenya Caldwell 2021 one html entity such as copyright in footer
 <main>
-<article>
+ section - Complete Career History
+ section - Complete Educational Background
+section - Current resume
+<article> resume add button
 at least one <img> which should be in a new subfolder called images within directory
