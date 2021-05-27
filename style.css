@@ -1,0 +1,23 @@
+/*elements*/
+body{
+    background-color: floralwhite;
+    font-size: larger;
+    color:green
+    width: 100vw;
+    height: 100vw;
+    margin: 0px;
+    overflow-x: hidden; /*prevent horizontal scrolling*/
+}
+
+header{
+    background-color:hotpink
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+main{
+    width: 100%;
+    padding: 30px 100px; /*all content away from edges*/
+    box-sizing: border-box; /*make sure content adheres to padding settings on left and right*/
+}
