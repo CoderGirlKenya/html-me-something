@@ -2,7 +2,7 @@
 body{
     background-color: floralwhite;
     font-size: larger;
-    color:green
+    color:rgb(27, 155, 27);
     width: 100vw;
     height: 100vw;
     margin: 0px;
@@ -10,14 +10,72 @@ body{
 }
 
 header{
-    background-color:hotpink
+    background-color:hotpink;
     height: auto;
     padding: 20px;
     margin: 0px;
 }
 
 main{
-    width: 100%;
-    padding: 30px 100px; /*all content away from edges*/
-    box-sizing: border-box; /*make sure content adheres to padding settings on left and right*/
+    width: 100%; /*should be the same as in body*/
+    padding: 30px 70px; /*all content away from edges*/
+    box-sizing: border-box; /*make sure content adheres to padding settings on left and right. specifies the width and height*/
+}
+footer{
+    color:rgb(29, 2, 15);
+    background-color: mediumblue;
+    text-align: center;
+    height: auto;
+    padding: 20px;
+    margin:0px;
+}
+h1{
+    font-size: 3.0rem;
+    margin: 0px 0px 10px;
+    font-style: italic;
+    font-style: bold;
+    
+}
+h2{
+    font-size: 1.5rem;
+    margin: 0px 0px 10px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color:blue;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0.5rem 0px;
+    font-size: 1.5rem;
+    
+}
+ul{
+    font-family:'Times New Roman', Times, serif;
+    font-size:1.5rem;
+}
+
+/*ids*/
+#page-title{
+    color: whitesmoke;
+    text-align: center;
+}
+#tagline{
+    color: whitesmoke;
+    text-align: center;
+    margin: 0px;
+}
+#intro{
+    font-style:italic;
+    margin-bottom: 30px;
+}
+
+.bordered{
+    border:4px solid yellow;
+    padding: 0px;
 }
